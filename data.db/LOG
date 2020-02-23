@@ -1,5 +1,33 @@
-2020/02/23-22:43:13.912 1b4c Recovering log #119
-2020/02/23-22:43:13.924 1b4c Level-0 table #127: started
-2020/02/23-22:43:13.974 1b4c Level-0 table #127: 1062400 bytes OK
-2020/02/23-22:43:13.991 1b4c Delete type=0 #119
-2020/02/23-22:43:13.991 1b4c Delete type=3 #100
+2020/02/23-22:49:22.807 1f0 Delete type=3 #1
+2020/02/23-22:51:11.491 206c Level-0 table #5: started
+2020/02/23-22:51:11.540 206c Level-0 table #5: 1218933 bytes OK
+2020/02/23-22:51:11.545 206c Delete type=0 #3
+2020/02/23-22:51:54.733 206c Level-0 table #7: started
+2020/02/23-22:51:54.839 206c Level-0 table #7: 1349227 bytes OK
+2020/02/23-22:51:54.848 206c Delete type=0 #4
+2020/02/23-22:52:48.392 206c Level-0 table #9: started
+2020/02/23-22:52:48.453 206c Level-0 table #9: 1242199 bytes OK
+2020/02/23-22:52:48.460 206c Delete type=0 #6
+2020/02/23-22:53:27.990 206c Level-0 table #11: started
+2020/02/23-22:53:28.042 206c Level-0 table #11: 1269541 bytes OK
+2020/02/23-22:53:28.048 206c Delete type=0 #8
+2020/02/23-22:54:05.450 206c Level-0 table #13: started
+2020/02/23-22:54:05.519 206c Level-0 table #13: 1130975 bytes OK
+2020/02/23-22:54:05.525 206c Delete type=0 #10
+2020/02/23-22:54:43.984 206c Level-0 table #15: started
+2020/02/23-22:54:44.076 206c Level-0 table #15: 1218093 bytes OK
+2020/02/23-22:54:44.081 206c Delete type=0 #12
+2020/02/23-22:54:44.082 206c Compacting 4@0 + 1@1 files
+2020/02/23-22:54:44.163 206c Generated table #16@0: 2742 keys, 2132266 bytes
+2020/02/23-22:54:44.211 206c Generated table #17@0: 2042 keys, 2125918 bytes
+2020/02/23-22:54:44.257 206c Generated table #18@0: 2976 keys, 1961342 bytes
+2020/02/23-22:54:44.257 206c Compacted 4@0 + 1@1 files => 6219526 bytes
+2020/02/23-22:54:44.259 206c compacted to: files[ 0 3 1 0 0 0 0 ]
+2020/02/23-22:54:44.259 206c Delete type=2 #7
+2020/02/23-22:54:44.260 206c Delete type=2 #9
+2020/02/23-22:54:44.260 206c Delete type=2 #11
+2020/02/23-22:54:44.261 206c Delete type=2 #13
+2020/02/23-22:54:44.261 206c Delete type=2 #15
+2020/02/23-22:55:35.418 206c Level-0 table #20: started
+2020/02/23-22:55:35.496 206c Level-0 table #20: 1267635 bytes OK
+2020/02/23-22:55:35.503 206c Delete type=0 #14
